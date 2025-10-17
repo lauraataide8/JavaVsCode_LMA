@@ -8,6 +8,6 @@ public class Comentarios {
         main refere-se ao nome do método de execução de toda a aplicação.
         String[]args é o vetor de string do java.
         */
-
+        System.out.println("Testando comentários");
     }
 }
