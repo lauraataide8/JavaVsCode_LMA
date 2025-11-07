@@ -1,0 +1,16 @@
+# Arquivos do Eclipse
+.metadata/
+*.launch
+.settings/
+
+# Arquivos do IntelliJ
+.idea/
+
+# Arquivos compilados do Java
+*.class
+
+# Outros
+bin/
+out/
+target/
+.vscode/
